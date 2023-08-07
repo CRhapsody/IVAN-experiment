@@ -1,0 +1,36 @@
+; ACAS Xu 5_2 network data 5 at radius 0.06640625
+
+(declare-const X_0 Real)
+(declare-const X_1 Real)
+(declare-const X_2 Real)
+(declare-const X_3 Real)
+(declare-const X_4 Real)
+
+(declare-const Y_0 Real)
+(declare-const Y_1 Real)
+(declare-const Y_2 Real)
+(declare-const Y_3 Real)
+(declare-const Y_4 Real)
+
+; Unscaled Input 0: (55947.691, 60760)
+(assert (<= X_0 0.6764062500))
+(assert (>= X_0 0.5435937500))
+
+; Unscaled Input 1: (-3.141592653589793, 3.141592653589793)
+(assert (<= X_1 0.4264062500))
+(assert (>= X_1 0.2935937500))
+
+; Unscaled Input 2: (-3.141592653589793, 3.141592653589793)
+(assert (<= X_2 0.0664062500))
+(assert (>= X_2 -0.0664062500))
+
+; Unscaled Input 3: (1145, 1200)
+(assert (<= X_3 0.0664062500))
+(assert (>= X_3 -0.0664062500))
+
+; Unscaled Input 4: (0, 60)
+(assert (<= X_4 -0.1735937500))
+(assert (>= X_4 -0.3064062500))
+
+; Unsafe if COC is maximal
+(assert (<= Y_4 Y_0))

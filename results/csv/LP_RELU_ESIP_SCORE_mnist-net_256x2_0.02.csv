@@ -1,0 +1,21 @@
+0,Status.ADV_EXAMPLE, tree size:,1, time:,0.1746976375579834
+1,Status.VERIFIED, tree size:,1, time:,0.09286141395568848
+2,Status.ADV_EXAMPLE, tree size:,1, time:,0.4360194206237793
+3,Status.VERIFIED, tree size:,1, time:,0.09656572341918945
+4,Status.ADV_EXAMPLE, tree size:,1, time:,0.13693499565124512
+Average time:,0.18741583824157712, Average tree size,1.0
+"{<Status.ADV_EXAMPLE: 2>: 3, <Status.VERIFIED: 1>: 2}"
+0,Status.ADV_EXAMPLE, tree size:,1, time:,0.16899347305297852
+1,Status.VERIFIED, tree size:,1, time:,0.0982522964477539
+2,Status.ADV_EXAMPLE, tree size:,1, time:,0.4211266040802002
+3,Status.VERIFIED, tree size:,1, time:,0.09140372276306152
+4,Status.ADV_EXAMPLE, tree size:,1, time:,0.14896893501281738
+Average time:,0.1857490062713623, Average tree size,1.0
+"{<Status.ADV_EXAMPLE: 2>: 3, <Status.VERIFIED: 1>: 2}"
+0,Status.ADV_EXAMPLE, tree size:,1, time:,0.1761770248413086
+1,Status.VERIFIED, tree size:,1, time:,0.09613227844238281
+2,Status.ADV_EXAMPLE, tree size:,1, time:,0.43125271797180176
+3,Status.VERIFIED, tree size:,1, time:,0.09903788566589355
+4,Status.ADV_EXAMPLE, tree size:,1, time:,0.14699363708496094
+Average time:,0.18991870880126951, Average tree size,1.0
+"{<Status.ADV_EXAMPLE: 2>: 3, <Status.VERIFIED: 1>: 2}"
